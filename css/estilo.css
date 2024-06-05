@@ -1,0 +1,33 @@
+header{
+   background-image: url(../header-bg.jpg);
+   height: 100vh;
+   background-color: black;
+   background-size: cover;
+}
+.estilo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.orden{
+    background-color: darkgoldenrod;
+}
+.numero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.primero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.separador{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    width: 80%;
+    margin: auto;
+}
